@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Nely Atelier</string>
+    <string name="brand_title">NELY</string>
+    <string name="brand_subtitle">Atelier</string>
+    <string name="nav_beranda">Beranda</string>
+    <string name="nav_jahit">Jahit</string>
+    <string name="nav_sewa">Sewa</string>
+    <string name="nav_pesanan">Pesanan</string>
+    <string name="nav_akun">Akun</string>
+    <string name="nav_admin_pesanan">Pesanan</string>
+    <string name="nav_admin_artisan">Artisan &amp; Upah</string>
+    <string name="nav_admin_katalog">Katalog</string>
+    <string name="nav_admin_pengaturan">Pengaturan</string>
+    <string name="mode_pelanggan">Klien</string>
+    <string name="mode_admin">Admin</string>
+    <string name="hero_title">Jahit dengan Sentuhan Tradisi, Tampil dengan Elegansi</string>
+    <string name="sewa_title">Sewa Kebaya Eksklusif</string>
+    <string name="pesanan_title">Pesanan Saya</string>
+    <string name="dossier_title">Metode &amp; Presisi Ukuran</string>
+    <string name="narasi_title">Dedikasi, Kemahiran, &amp; Narasi Nely Collection</string>
+    <string name="admin_pesanan_title">Manajemen Pesanan</string>
+    <string name="admin_upah_title">Karyawan &amp; Rekap Upah</string>
+</resources>

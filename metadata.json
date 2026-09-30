@@ -1,0 +1,6 @@
+{
+  "name": "Nely Atelier",
+  "description": "Aplikasi adibusana jahit bespoke, dossier presisi ukuran, sewa kebaya eksklusif, dan manajemen produksi Nely Collection Atelier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
